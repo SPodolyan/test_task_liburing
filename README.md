@@ -8,7 +8,7 @@ cmake it used to build these examples. Please ensure it is installed on your sys
 Run theis command once you check out this repo and change into its directory:
 
 ```
-$ ./build.sh
+$ chmod +x build.sh && ./build.sh
 
 ```
 
